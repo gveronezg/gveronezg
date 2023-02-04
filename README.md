@@ -6,7 +6,7 @@
 - 📫 E lembre-se que é fácil me contatar através do Linkedin ou E-mail.
 - 🫶 Espero que goste do que encontrar por aqui...
 
-<p align="topleft">
+<p align="center">
   <
     img width="400em"
     src="https://github-readme-stats.vercel.app/api?username=gveronezg&show_icons=true&locale=en&theme=dark"
