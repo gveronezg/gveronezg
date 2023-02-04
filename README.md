@@ -3,7 +3,5 @@
 </p>
 <p align="center">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=gveronezg&show_icons=true&locale=en&theme=prussian&hide_border=true&border_radius=4&date_format=j" alt="gveronezg"/>
-  <p align="center">
     <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=gveronezg&theme=prussian&hide_border=true&border_radius=4&date_format=j" alt="gveronezg"/>
-  </p>
 </p>
