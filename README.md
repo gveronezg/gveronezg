@@ -29,7 +29,7 @@
         #cabecalho{
             background-color: white;
             width: auto;
-            color: green;
+            color: black;
             height: 120px;
             margin: 20px auto;
             padding-left:20px;
