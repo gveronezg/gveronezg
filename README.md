@@ -1,5 +1,10 @@
 <head>
-  <div style="background-image: src="https://github.com/gveronezg/gveronezg/blob/main/dev.jpg"; alt="gveronezg"; background-size: cover; padding: 10px;"></div>
+  <div style="background-image: src="https://github.com/gveronezg/gveronezg/blob/main/dev.jpg"; alt="gveronezg"; background-size: cover; padding: 10px;">
+  <p align="center">
+    <img width="400em" src="https://github.com/gveronezg/gveronezg/blob/main/dev.jpg" alt="gveronezg"/>
+  </p> 
+  
+</div>
   <h1 style="text-align: center;">Gabriel Veronez Giolo</h1>
   <hr>
 </head>
