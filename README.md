@@ -27,7 +27,7 @@
     <title>Tag HTML div</title>
     <style type="text/css">
         #cabecalho{
-            background-color: white;
+            background-color: black;
             width: auto;
             color: black;
             height: 120px;
