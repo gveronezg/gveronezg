@@ -2,7 +2,7 @@
 👋😄 Olá, seja muito bem vindo(a) ao meu perfil Github.</br>💼 Atualmente eu trabalho desenvolvendo na empresa CHB Sistemas.</br>📖 Venho estudando JavaScript, além do conteúdo visto na Faculdade.</br>📫 E lembre-se que é fácil me contatar através do Linkedin ou E-mail.</br>🫶 Espero que goste do que encontrar por aqui...
 </p>
 <p align="center">
-  <h3 align="left">Connect with me:</h3>
+  <h3 align="left">Para me conhecer um pouco melhor:</h3>
 <p align="left">
 <a href="https://api.whatsapp.com/send/?phone=5516992062879&text&app_absent=0" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536445.png" alt="16992062879" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/20978841/andrewar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20978841" height="30" width="30" /></a>
