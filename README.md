@@ -21,38 +21,6 @@
 
 
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tag HTML div</title>
-    <style type="text/css">
-        #cabecalho{
-            background-color: black;
-            width: auto;
-            color: black;
-            height: 120px;
-            margin: 20px auto;
-            padding-left:20px;
-            padding-top:10px;
-        }
-        .centralizado {
-            background-color: rgb(182, 240, 199);
-            border: 2px solid #999;
-            width: 300px;
-            margin: 20px auto;
-            padding: 20px;
-        }
-        #rodape{
-            background-color:#008b8b;
-            width: auto;
-            color:black;
-            height: 120px;
-            margin: 20px auto;
-            padding-left:20px;
-            padding-top: 5px;
-       }
-    </style>     
-</head>
 <body>
     <div id="cabecalho">
         <h1>Área de cabeçalho</h1>
