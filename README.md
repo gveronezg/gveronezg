@@ -10,7 +10,7 @@
 <body>
   <img width="400em" src="https://github.com/gveronezg/gveronezg/blob/main/backG.jpg" alt="gveronezg"/>
   <div>
-    <p style="color:#ff0000"; font-size: 25px; color: black;"><strong>Olá, seja muito bem vindo(a) ao meu perfil Github 👋😄 </br>Atualmente eu trabalho desenvolvendo na empresa CHB Sistemas 💼</br>Venho estudando Js/Html/Css, além do conteúdo visto na Faculdade 📖</br>Não se esqueça que facilmente você me contata através do Linkedin ou E-mail 📫</br>Espero que goste do que encontrar por aqui 🫶</br></strong>
+    <p style: "color:#ff0000"; font-size: 25px; color: black;"><strong>Olá, seja muito bem vindo(a) ao meu perfil Github 👋😄 </br>Atualmente eu trabalho desenvolvendo na empresa CHB Sistemas 💼</br>Venho estudando Js/Html/Css, além do conteúdo visto na Faculdade 📖</br>Não se esqueça que facilmente você me contata através do Linkedin ou E-mail 📫</br>Espero que goste do que encontrar por aqui 🫶</br></strong>
   <!-- 
   <img src="dev.jpg" alt="Seu Avatar" style="width: 400px; height: 400px;" />
   <img src="dev.jpg" alt="Seu Avatar" style="width: 400px; height: 400px;" />
