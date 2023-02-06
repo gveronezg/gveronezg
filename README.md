@@ -5,7 +5,7 @@
   </p> 
   
 </div>
-  <h1 style="text-align: center;">Gabriel Veronez Giolo</h1>
+  <h1 style="text-align: center;" align="center">Gabriel Veronez Giolo</h1>
   <hr>
 </head>
 <body>
