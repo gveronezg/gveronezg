@@ -1,13 +1,12 @@
 <head>
-  <div style="background-image: src="https://github.com/gveronezg/gveronezg/blob/main/dev.jpg"; alt="gveronezg"; background-size: cover; padding: 01px;">
-  <p align="center">
-    <img width="400em" src="https://github.com/gveronezg/gveronezg/blob/main/dev.jpg" alt="gveronezg"/>
-  </p> 
-  
-</div>
+    <p align="center">
+      <img width="400em" src="https://github.com/gveronezg/gveronezg/blob/main/dev.jpg" alt="gveronezg"/>
+    </p> 
+  </div>
   <h1 style="text-align: center;" align="center">Gabriel Veronez Giolo</h1>
   <hr>
 </head>
+
 <body>
   <img width="400em" src="https://github.com/gveronezg/gveronezg/blob/main/backG.jpg" alt="gveronezg"/>
   <div style="background-image: url('dev.jpg'); background-size: cover; padding: 1px;">
