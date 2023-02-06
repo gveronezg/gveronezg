@@ -8,7 +8,7 @@
 </head>
 
 <body>
-  <div style="background:url(backG.jpg)">
+  <div style="background:url(https://github.com/gveronezg/gveronezg/blob/main/backG.jpg)">
     <p color: black; font-size: 25px; color: black;"><strong>Olá, seja muito bem vindo(a) ao meu perfil Github 👋😄 </br>Atualmente eu trabalho desenvolvendo na empresa CHB Sistemas 💼</br>Venho estudando Js/Html/Css, além do conteúdo visto na Faculdade 📖</br>Não se esqueça que facilmente você me contata através do Linkedin ou E-mail 📫</br>Espero que goste do que encontrar por aqui 🫶</br></strong>
   <!-- 
     <ul style="text-align: center; font-size: 18px;">
