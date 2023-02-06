@@ -1,4 +1,5 @@
 <head>
+  <link rel="stylesheet" href="perfil.css">
   <div style="background-image: src="https://github.com/gveronezg/gveronezg/blob/main/dev.jpg"; alt="gveronezg"; background-size: cover; padding: 10px;">
   <p align="center">
     <img width="400em" src="https://github.com/gveronezg/gveronezg/blob/main/dev.jpg" alt="gveronezg"/>
