@@ -27,7 +27,7 @@
     <!-- Permite que a pagina receba caracteres especiais -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   </head>
-  <body style="background: url(./backG.jpg) no-repeat top center/cover;">
+  <body style="background-image="("https://github.com/gveronezg/gveronezg/blob/main/backG.jpg);">
     <div id="container0">
       <div id="profile">
         <img src="./assets/GVG.png" alt="Minha foto em frente a fogueira." />
