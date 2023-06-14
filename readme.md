@@ -1,4 +1,4 @@
-![alt text](https://github.com/gveronezg/gveronezg/blob/main/backG.jpg)
+![alt text](https://github.com/gveronezg/gveronezg/blob/main/dia.jpg)
 
 <div align="center">
   <img src="https://github.com/gveronezg/gveronezg/blob/main/GVG.png" alt="gveronezg" width="300" height="300">
