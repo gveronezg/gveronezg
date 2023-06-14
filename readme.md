@@ -8,7 +8,7 @@
 </head>
 <body>
     <div align="center">
-      <ul>
+      <ul style="list-style: none;">
         <li>
           <a href="#">Inscrever-se</a>
         </li>
