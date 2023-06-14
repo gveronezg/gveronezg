@@ -4,14 +4,12 @@
     </div>
     <p style="text-align: center; align: center; padding-bottom: 10px;">@gveronezg</p>
   <meta charset="UTF-8" />
-  <!-- Permite que a pagina receba caracteres especiais -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
 <body>
     <div id="container0">
       <div id="profile">
         <img src="./assets/GVG.png" alt="Minha foto em frente a fogueira." />
-        <p>@gveronezg</p>
       </div>
       <ul>
         <li>
