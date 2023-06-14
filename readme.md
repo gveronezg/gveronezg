@@ -1,18 +1,20 @@
-![alt text](https://github.com/gveronezg/gveronezg/blob/main/dia.jpg)
+<head>
+    <p align="center">
+      <img width="400em" src="https://github.com/gveronezg/gveronezg/raw/main/dev.jpg" alt="gveronezg"/>
+    </p> 
+  </div>
+  <h1 style="text-align: center;" align="center">Gabriel Veronez Giolo</h1>
+</head>
 
-<div align="center">
-  <img src="https://github.com/gveronezg/gveronezg/blob/main/GVG.png" alt="gveronezg" width="300" height="300">
-</div>
-
-# <div align="center">@gveronezg</div>
-<br> <!-- Adiciona uma quebra de linha -->
-
-<!--
-
-
-(** ... **) Colocar em negrito
--->
-
-<div align="center">
-  <a href="#" style="display: inline-block; padding: 10px; border: 1px solid rgba(255, 255, 255, 0.5); border-radius: 8px;">Inscrever-se</a>
-</div>
+<body>
+  <div style=background-image="url(backG.jpg);" style="text-align: center;" width="400px;" height="400px;">
+    <p color: black; font-size: 25px; color: black;"><strong>Olá, seja muito bem vindo(a) ao meu perfil Github 👋😄 </br>Atualmente não estou empregado 💼</br>Venho estudando Js/Html/Css, além do conteúdo visto na Faculdade 📖</br>Não se esqueça que facilmente você me contata através do Linkedin ou E-mail 📫</br>Espero que goste do que encontrar por aqui 😊</br></strong>
+  <!-- 
+    <ul style="text-align: center; font-size: 18px;">
+      <li><a href="#Link1">Link 1</a></li>
+      <li><a href="#Link2">Link 2</a></li>
+      <li><a href="#Link3">Link 3</a></li>
+    </ul>
+  -->
+  </div>
+</body>
