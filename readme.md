@@ -1,6 +1,6 @@
 <head>
     <p align="center">
-      <img width="400em" src="https://github.com/gveronezg/gveronezg/raw/main/GVG.jpg" alt="gveronezg"/>
+      <img width="400em" src="https://github.com/gveronezg/gveronezg/raw/main/GVG.png" alt="gveronezg"/>
     </p> 
   </div>
   <h1 style="text-align: center;" align="center">Gabriel Veronez Giolo</h1>
