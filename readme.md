@@ -2,7 +2,7 @@
     <div align="center">
         <img src="https://github.com/gveronezg/gveronezg/blob/main/GVG.png" alt="gveronezg;" width="300px;" height="300px;"/>
     </div>
-    <h1 style="text-align: center;" align="top;">gveronezg</h1>
+    <h1 style="text-align: center;" align="center;">gveronezg</h1>
   <meta charset="UTF-8" />
   <!-- Permite que a pagina receba caracteres especiais -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
