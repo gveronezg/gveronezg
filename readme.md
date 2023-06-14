@@ -14,7 +14,7 @@
       </div>
       </br>
       <div style="height: 30px; border: 1px solid rgba(255, 255, 255, 0.5); border-radius: 8px;">
-        <a href="#">Baixar meu E-Book</a>
+        <a href="https://github.com/gveronezg/Estudos_JavaScript">Baixar meu E-Book</a>
       </div>
       </br>
       <div style="height: 30px; border: 1px solid rgba(255, 255, 255, 0.5); border-radius: 8px;">
@@ -22,7 +22,7 @@
       </div>
       </br>
       <div style="height: 30px; border: 1px solid rgba(255, 255, 255, 0.5); border-radius: 8px;">
-        <a href="#" target="_blank">Conheça meu site</a>
+        <a href="https://github.com/gveronezg/Estudos_JavaScript" target="_blank">Conheça meu site</a>
       </div>
       </br>
     </div>
