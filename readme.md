@@ -11,15 +11,19 @@
       <div style="height: 30px; border: 1px solid rgba(255, 255, 255, 0.5); border-radius: 8px;">
         <a style="align-items: center;" href="#">Inscrever-se</a>
       </div>
+      </br>
       <div style="height: 30px; border: 1px solid rgba(255, 255, 255, 0.5); border-radius: 8px;">
         <a href="#">Baixar meu E-Book</a>
       </div>
+      </br>
       <div style="height: 30px; border: 1px solid rgba(255, 255, 255, 0.5); border-radius: 8px;">
         <a href="#">Ver meu portifólio</a>
       </div>
+      </br>
       <div style="height: 30px; border: 1px solid rgba(255, 255, 255, 0.5); border-radius: 8px;">
         <a href="#" target="_blank">Conheça meu site</a>
       </div>
+      </br>
     </div>
     <div id="social-links">
       <a
