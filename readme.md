@@ -3,6 +3,9 @@
 </div>
 
 # <div align="center">@gveronezg</div>
+<br> <!-- Adiciona uma quebra de linha -->
+<br> <!-- Adiciona uma quebra de linha -->
+<br> <!-- Adiciona uma quebra de linha -->
 
 <div align="center">
   <div style="width: 300px; list-style: none; padding: 0;">
