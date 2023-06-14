@@ -4,6 +4,7 @@
     </p> 
   </div>
   <h3 style="text-align: center;" align="center">@gveronezg</h3>
+  </br>
 </head>
 <body style="background-image: url(https://github.com/gveronezg/gveronezg/raw/main/backG.jpg);" alt="backgr" width="300" height="300">
   <div align="center">
