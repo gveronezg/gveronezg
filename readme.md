@@ -1,11 +1,10 @@
 <head>
-  <div style="text-align: center; margin-top: 40px;">
-    <img src="https://github.com/gveronezg/gveronezg/raw/main/GVG.png" alt="gveronezg" width="300" height="300">
+    <p align="center">
+      <img width="400em" src="https://github.com/gveronezg/gveronezg/raw/main/GVG.png" alt="gveronezg"/>
+    </p> 
   </div>
-  <h1 style="text-align: center; align: center; padding: 10px;">@gveronezg</h1>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-</head>  
+  <h1 style="text-align: center;" align="center">@gveronezg</h1>
+</head>
 <body style="background-image: url(https://github.com/gveronezg/gveronezg/raw/main/backG.jpg);" alt="backgr" width="300" height="300">
   <div align="center">
     <ul style="width: 300px; list-style: none; display: flex; flex-direction: column; gap: 10px; padding: 30px 0 40px 0;">
