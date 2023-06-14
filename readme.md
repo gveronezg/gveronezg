@@ -1,6 +1,6 @@
 <head>
     <p align="center">
-      <img width="400em" src="https://github.com/gveronezg/gveronezg/blob/main/GVG.jpg" alt="gveronezg"/>
+      <img width="400em" src="https://github.com/gveronezg/gveronezg/blob/main/GVG.png" alt="gveronezg"/>
     </p> 
   </div>
   <h1 style="text-align: center;" align="center">gveronezg</h1>
