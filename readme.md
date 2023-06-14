@@ -7,10 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
 <body>
-    <div id="container0">
-      <div id="profile">
-        <img src="./assets/GVG.png" alt="Minha foto em frente a fogueira." />
-      </div>
+    <div align="center">
       <ul>
         <li>
           <a href="#">Inscrever-se</a>
