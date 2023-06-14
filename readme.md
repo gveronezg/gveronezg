@@ -2,7 +2,7 @@
   <img src="https://github.com/gveronezg/gveronezg/blob/main/GVG.png" alt="gveronezg" width="300" height="300">
 </div>
 
-<span align="center" style="font-size: 18px;">@gveronezg</span>
+<span align="center" style="font-size: 48px;">@gveronezg</span>
 <br> <!-- Adiciona uma quebra de linha -->
 
 ** ° ** <!-- Colocar em negrito -->
