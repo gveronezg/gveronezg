@@ -6,9 +6,7 @@
 <br> <!-- Adiciona uma quebra de linha -->
 
 <div align="center">
-    <div style="height: 30px; border: 1px solid rgba(255, 255, 255, 0.5); border-radius: 8px;">
       <div align="center">
         <a href="#" style="display: inline-block; padding: 10px; border: 1px solid rgba(255, 255, 255, 0.5); border-radius: 8px;">Inscrever-se</a>
       </div>
-    </div>
 </div>
