@@ -7,7 +7,7 @@
 </head>
 
 <body>
-  <div style=background-image="url(backG.jpg);" style="text-align: center;" width="400px;" height="400px;">
+  <div style=background-image="url(./backG.jpg);" style="text-align: center;" width="400px;" height="400px;">
     <p color: black; font-size: 25px; color: black;"><strong>Olá, seja muito bem vindo(a) ao meu perfil Github 👋😄 </br>Atualmente não estou empregado 💼</br>Venho estudando Js/Html/Css, além do conteúdo visto na Faculdade 📖</br>Não se esqueça que facilmente você me contata através do Linkedin ou E-mail 📫</br>Espero que goste do que encontrar por aqui 😊</br></strong>
   <!-- 
     <ul style="text-align: center; font-size: 18px;">
