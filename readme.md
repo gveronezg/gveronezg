@@ -1,4 +1,4 @@
-![alt text]((https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/gveronezg/gveronezg/blob/main/backG.jpg) "Logo Title Text 1")
+![alt text](https://github.com/gveronezg/gveronezg/blob/main/backG.jpg) "Logo Title Text 1")
 
 <div align="center">
   <img src="https://github.com/gveronezg/gveronezg/blob/main/GVG.png" alt="gveronezg" width="300" height="300">
