@@ -3,7 +3,7 @@
       <img width="400em" src="https://github.com/gveronezg/gveronezg/raw/main/GVG.png" alt="gveronezg"/>
     </p> 
   </div>
-  <h1 style="text-align: center;" align="center">@gveronezg</h1>
+  <h3 style="text-align: center;" align="center">@gveronezg</h3>
 </head>
 <body style="background-image: url(https://github.com/gveronezg/gveronezg/raw/main/backG.jpg);" alt="backgr" width="300" height="300">
   <div align="center">
