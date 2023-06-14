@@ -2,7 +2,7 @@
     <div align="center">
         <img src="https://github.com/gveronezg/gveronezg/blob/main/GVG.png" alt="gveronezg" width="300px" height="300px"/>
     </div>
-    <h1 style="text-align: center;" align: center; padding-bottom: 10px;">@gveronezg</h1>
+    <h1 style="text-align: center;">@gveronezg</h1>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
