@@ -7,8 +7,8 @@
 </head>
 <body style="background-image: url(https://github.com/gveronezg/gveronezg/raw/main/backG.jpg);" alt="backgr" width="300" height="300">
   <div align="center">
-    <ul style="list-style: none; width: 300px; list-style: none; display: flex; flex-direction: column; gap: 10px; padding: 30px 0 40px 0;">
-      <li style="height: 30px; border: 1px solid rgba(255, 255, 255, 0.5); border-radius: 8px;">
+    <ul style="width: 300px; list-style: none; display: flex; flex-direction: column; gap: 10px; padding: 30px 0 40px 0;">
+      <li style="list-style: none; height: 30px; border: 1px solid rgba(255, 255, 255, 0.5); border-radius: 8px;">
         <a style="align-items: center;" href="#">Inscrever-se</a>
       </li>
       <li style="height: 30px; border: 1px solid rgba(255, 255, 255, 0.5); border-radius: 8px;">
