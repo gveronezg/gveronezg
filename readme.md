@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://github.com/gveronezg/gveronezg/blob/main/GVG.png" alt="gveronezg" width="300px" height="300px">
+  <img src="https://github.com/gveronezg/gveronezg/blob/main/GVG.png" alt="gveronezg" width="300" height="300">
 </div>
 
-# @gveronezg
+# <div align="center">@gveronezg</div>
 
 <div align="center">
   <ul style="width: 300px; list-style: none; padding: 0;">
