@@ -1,9 +1,14 @@
 <head>
-    <meta charset="UTF-8" />
-    <!-- Permite que a pagina receba caracteres especiais -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  </head>
-  <body>
+    <p align="center">
+      <img width="400em" src="https://github.com/gveronezg/gveronezg/blob/main/GVG.jpg" alt="gveronezg"/>
+    </p> 
+  </div>
+  <h1 style="text-align: center;" align="center">gveronezg</h1>
+  <meta charset="UTF-8" />
+  <!-- Permite que a pagina receba caracteres especiais -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body>
     <div id="container0">
       <div id="profile">
         <img src="./assets/GVG.png" alt="Minha foto em frente a fogueira." />
