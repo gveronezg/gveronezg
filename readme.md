@@ -1,3 +1,5 @@
+<!--
+
 <head>
     <p align="center">
       <img width="400em" src="https://github.com/gveronezg/gveronezg/raw/main/GVG.png" alt="gveronezg"/>
@@ -54,3 +56,5 @@
     src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"
   ></script>
 </body>
+
+-->
