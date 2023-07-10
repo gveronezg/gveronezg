@@ -11,4 +11,4 @@ Sou amigo, irmão, estudante, esposo e grande amante das ciências físicas e as
 
 ### É isso, agradeço pelo seu tempo e disposição e te desejo tudo de bom!
 
-[<img width="50em" src="https://static.vecteezy.com/system/resources/previews/018/910/809/original/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg">](https://www.linkedin.com/in/gabriel-veronez-giolo-70a348193/)
+[<img width="50em" target="_blank" src="https://static.vecteezy.com/system/resources/previews/018/910/809/original/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg">](https://www.linkedin.com/in/gabriel-veronez-giolo-70a348193/)
