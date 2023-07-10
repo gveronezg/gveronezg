@@ -14,4 +14,5 @@ Sou amigo, irmão, estudante, esposo e grande amante das ciências físicas e as
 [<img width="50em" src="https://cdn-icons-png.flaticon.com/512/145/145807.png">](https://www.linkedin.com/in/gabriel-veronez-giolo-70a348193/)
 [<img width="50em" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png">](https://www.instagram.com/gveronezg/)
 [<img width="50em" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png">](https://www.facebook.com/gabrielveronezgiolo)
+[<img width="50em" src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png">](https://wa.me/16991941010?text=Olá%20encontrei%20seu%20perfil%20no%20GitHub.)
 [<img width="50em" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png">](https://wa.me/16991941010?text=Tenho%20interesse%20em%20comprar%20seu%20carro)
