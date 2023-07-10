@@ -11,6 +11,7 @@ Sou amigo, irmão, estudante, esposo e grande amante das ciências físicas e as
 
 ### É isso, agradeço pelo seu tempo e disposição e te desejo tudo de bom!
 
-[<img width="50em" src="https://static.vecteezy.com/system/resources/previews/018/910/809/original/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg">](https://www.linkedin.com/in/gabriel-veronez-giolo-70a348193/)
-
-[![](https://github.com/gveronezg/gveronezg/raw/main/Programming-bro.png){.center loading="lazy" width="50"}](https://www.linkedin.com/in/gabriel-veronez-giolo-70a348193/){target="_blank"}
+[<img width="50em" src="https://cdn-icons-png.flaticon.com/512/145/145807.png">](https://www.linkedin.com/in/gabriel-veronez-giolo-70a348193/)
+[<img width="50em" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png">](https://www.instagram.com/gveronezg/)
+[<img width="50em" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png">](https://www.facebook.com/gabrielveronezgiolo)
+[<img width="50em" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png">](https://wa.me/16991941010?text=Tenho%20interesse%20em%20comprar%20seu%20carro)
