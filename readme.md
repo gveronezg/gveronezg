@@ -1,6 +1,6 @@
 <head>
     <p align="center">
-      <img align="right" width="400em" src="https://github.com/gveronezg/gveronezg/raw/main/GVG.png" alt="gveronezg"/>
+      <img align="right" width="400em" src="https://github.com/gveronezg/gveronezg/raw/main/Programming-bro.png" alt="gveronezg"/>
     </p> 
   </div>
   <h3 style="text-align: center;" align="center">@gveronezg</h3>
