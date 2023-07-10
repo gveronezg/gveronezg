@@ -11,7 +11,7 @@ Sou amigo, irmão, estudante, esposo e grande amante das ciências físicas e as
 
 ### É isso, agradeço pelo seu tempo e disposição e te desejo tudo de bom!
 
-Caso queira me conhecer um pouco melhor é só entrar em contato clincando em alguma das opções abaixo.
+Caso queira me conhecer um pouco melhor é só entrar em contato clicando em alguma das opções abaixo.
 
 [<img width="50em" src="https://cdn-icons-png.flaticon.com/512/145/145807.png">](https://www.linkedin.com/in/gabriel-veronez-giolo-70a348193/)
 [<img width="50em" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png">](https://www.instagram.com/gveronezg/)
