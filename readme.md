@@ -1,5 +1,5 @@
 <img align="right" width="400em" src="https://github.com/gveronezg/gveronezg/raw/main/Programming-bro.png" alt="gveronezg"/>
-<h3 style="text-align: center; font-size: 20px;">Gabriel V Giolo</h3>
+<h3 align="center">Gabriel V Giolo</h3>
 
 ### Olá, seja muitíssimo bem vindo(a). Espero que goste do que encontrar por aqui.
 
