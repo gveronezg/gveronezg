@@ -1,5 +1,5 @@
 <img align="right" width="500em" src="https://github.com/gveronezg/gveronezg/raw/main/Programming-bro.png" alt="gveronezg"/>
-<h1 align="center">Gabriel V Giolo</h3>
+<h1 align="center">Gabriel Veronez Giolo</h3>
 
 ### Olá, seja muitíssimo bem vindo(a). Espero que goste do que encontrar por aqui.
 
@@ -10,6 +10,8 @@ Sou amigo, irmão, estudante, esposo e grande amante das ciências físicas e as
 "Diante da vastidão do tempo e da imensidão do universo, é um imenso prazer para mim dividir um planeta e uma época com você." – Carl Sagan.
 
 ### É isso, agradeço pelo seu tempo e disposição e te desejo tudo de bom!
+
+Caso queira me conhecer um pouco melhor é só entrar em contato clincando em alguma das opções abaixo.
 
 [<img width="50em" src="https://cdn-icons-png.flaticon.com/512/145/145807.png">](https://www.linkedin.com/in/gabriel-veronez-giolo-70a348193/)
 [<img width="50em" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png">](https://www.instagram.com/gveronezg/)
