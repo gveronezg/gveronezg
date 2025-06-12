@@ -1,17 +1,57 @@
 <img align="right" width="500em" src="https://github.com/gveronezg/gveronezg/raw/main/Programming-bro.svg" alt="gveronezg"/>
-<h1 align="center">Gabriel Veronez Giolo</h3>
 
-### Olá, seja muito bem-vindo(a)! Espero que aproveite sua visita por aqui.
+<h1 align="center">Gabriel Veronez Giolo</h1>
 
-Sou tecnólogo em [Análise e Desenvolvimento de Sistemas](https://emec.mec.gov.br/emec/consulta-cadastro/detalhamento/d96957f455f6405d14c6542552b0f6eb/MTU3MDg=/9f1aa921d96ca1df24a34474cc171f61/MjEx), formado pela [Fatec - Dr. Thomaz Novelino](https://site.fatecfranca.edu.br/) em [Franca](https://www.google.com/maps/place/Franca+-+SP/data=!4m2!3m1!1s0x94b0a61af61f6833:0xf8937fe5d4b0f6dd?sa=X&ved=2ahUKEwjK0u2314SAAxV6FLkGHc-5CKYQ8gF6BAhcEAA&ved=2ahUKEwjK0u2314SAAxV6FLkGHc-5CKYQ8gF6BAhkEAE), e atualmente graduando em [Engenharia de Computação](https://univesp.br/cursos/engenharia-de-computacao) pela [Univesp](https://univesp.br/). Sou movido por curiosidade e dedicação, sempre buscando aprender o que desperta meu interesse. Meu foco está em planejar, construir e simplificar soluções com base no pensamento sistêmico, sempre em busca de evolução contínua. Minha meta é criar soluções que agreguem valor e tragam satisfação para a vida das pessoas.
+### 👋 Seja bem-vindo(a) ao meu GitHub!
 
-Tenho muitos papéis: sou amigo, esposo, irmão, estudante e um grande entusiasta das ciências físicas e astronômicas.
-Algumas frases inspiradoras me acompanham, como esta de [Isaac Newton](https://pt.wikipedia.org/wiki/Isaac_Newton): "Se vi mais longe, foi por estar de pé sobre ombros de gigantes."
-E também a de [Carl Sagan](https://pt.wikipedia.org/wiki/Carl_Sagan): "Diante da vastidão do tempo e da imensidão do universo, é um imenso prazer para mim dividir um planeta e uma época com você."
+Sou **desenvolvedor em formação**, com base sólida em **Análise e Desenvolvimento de Sistemas** (Fatec - Dr. Thomaz Novelino) e atualmente graduando em **Engenharia de Computação** pela [Univesp](https://univesp.br/). Tenho foco na construção de soluções inteligentes, com pensamento lógico, aprendizado constante e aplicação prática do conhecimento.
 
-### Obrigado pelo seu tempo e por estar aqui. Desejo-lhe o melhor!
-Se quiser saber mais sobre mim, fique à vontade para clicar em uma das opções abaixo e entrar em contato.
-Que tal?
+Meu objetivo é planejar, construir e evoluir sistemas que entreguem valor, utilizando tecnologias modernas, boas práticas e sempre buscando excelência em cada entrega.
+
+---
+
+### 🧠 **Competências Técnicas**
+
+- **Back-End:** Python (Django, FastAPI), C# (.NET), APIs REST  
+- **Front-End:** HTML5, CSS3, JavaScript (básico), AngularJS  
+- **Data & IA:** Pandas, Matplotlib, Streamlit, Machine Learning (básico), MetaTrader5 API  
+- **Banco de Dados:** PostgreSQL, Supabase (Auth + DB)  
+- **Ferramentas & Práticas:** Git, GitHub, VS Code, Insomnia/Postman, Metodologias Ágeis  
+- **Outros:** Automatização de rotinas, integração com APIs externas e bots no Telegram
+
+---
+
+### 🚀 **Projetos Pessoais em Destaque**
+
+- 🧮 **Calculadora de Gastos Pessoais**  
+  Ferramenta personalizada para controle financeiro individual e familiar, feita em Python.
+
+- 🤖 **IA Nutricionista via Telegram**  
+  Bot inteligente integrado ao Telegram, capaz de responder dúvidas nutricionais com base em lógica de IA e NLP simples.
+
+- 📈 **Bot Automatizado com Machine Learning**  
+  Sistema de compra e venda de ativos usando aprendizado de máquina, com execução via API do MetaTrader5.
+
+- 📊 **Dashboard de Análise de Dados**  
+  Aplicação interativa desenvolvida com Python + Streamlit para leitura de dados, geração de gráficos e KPIs personalizados.
+
+- 🔐 **CRUD Web com Autenticação**  
+  API funcional em **C# + AngularJS**, com banco de dados e autenticação via **Supabase**.
+
+- 🌐 **Projetos com HTML e CSS**  
+  Criação de páginas web responsivas, explorando fundamentos de design visual, acessibilidade e usabilidade.
+
+---
+
+### 🧭 O que estou buscando?
+
+Atualmente estou em busca de **oportunidades como Desenvolvedor Júnior ou Estagiário**, com o objetivo de colaborar com times de tecnologia e aprender com profissionais experientes. Sou movido por desafios, aprendizado contínuo e pela vontade de transformar ideias em soluções reais.
+
+---
+
+### ✨ Obrigado pela visita!
+
+Fico feliz por você estar aqui. Caso queira trocar ideias ou conhecer mais sobre meu trabalho, é só clicar em um dos ícones abaixo:
 
 [<img width="50em" src="https://cdn-icons-png.flaticon.com/512/145/145807.png">](https://www.linkedin.com/in/gabriel-veronez-giolo-70a348193/)
 [<img width="50em" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png">](https://www.instagram.com/gveronezg/)
