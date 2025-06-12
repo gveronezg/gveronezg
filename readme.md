@@ -12,12 +12,20 @@ Meu objetivo é planejar, construir e evoluir sistemas que entreguem valor, util
 
 ### 🧠 **Competências Técnicas**
 
-- **Back-End:** Python (Django, FastAPI), C# (.NET), APIs REST  
-- **Front-End:** HTML5, CSS3, JavaScript (básico), AngularJS  
-- **Data & IA:** Pandas, Matplotlib, Streamlit, Machine Learning (básico), MetaTrader5 API  
-- **Banco de Dados:** PostgreSQL, Supabase (Auth + DB)  
-- **Ferramentas & Práticas:** Git, GitHub, VS Code, Insomnia/Postman, Metodologias Ágeis  
-- **Outros:** Automatização de rotinas, integração com APIs externas e bots no Telegram
+#### Linguagens e Frameworks  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Ferramentas, Banco de Dados e APIs  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
