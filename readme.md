@@ -35,9 +35,6 @@ Meu objetivo é planejar, construir e evoluir sistemas que entreguem valor, util
 - 📊 **Dashboard de Análise de Dados**  
   Aplicação interativa desenvolvida com Python + Streamlit para leitura de dados, geração de gráficos e KPIs personalizados.
 
-- 🔐 **CRUD Web com Autenticação**  
-  API funcional em **C# + AngularJS**, com banco de dados e autenticação via **Supabase**.
-
 - 🌐 **Projetos com HTML e CSS**  
   Criação de páginas web responsivas, explorando fundamentos de design visual, acessibilidade e usabilidade.
 
