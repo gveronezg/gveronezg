@@ -4,16 +4,16 @@
 
 ### 👋 Seja bem-vindo(a) ao meu GitHub!
 
-Sou **programador**, formado como Tecnólogo em [Análise e Desenvolvimento de Sistemas](https://emec.mec.gov.br/emec/consulta-cadastro/detalhamento/d96957f455f6405d14c6542552b0f6eb/MTU3MDg=/9f1aa921d96ca1df24a34474cc171f61/MjEx) pela [Fatec - Dr. Thomaz Novelino](https://site.fatecfranca.edu.br/) em [Franca](https://www.google.com/maps/place/Franca+-+SP/data=!4m2!3m1!1s0x94b0a61af61f6833:0xf8937fe5d4b0f6dd?sa=X&ved=2ahUKEwjK0u2314SAAxV6FLkGHc-5CKYQ8gF6BAhcEAA&ved=2ahUKEwjK0u2314SAAxV6FLkGHc-5CKYQ8gF6BAhkEAE) e atualmente graduando em [Engenharia de Computação](https://univesp.br/cursos/engenharia-de-computacao) pela [Univesp](https://univesp.br/). Meu interesse é construir soluções inteligentes, com pensamento lógico, aprendizado constante e aplicação prática do conhecimento.
+Sou **analista e desenvolvedor**, formado como Tecnólogo em [Análise e Desenvolvimento de Sistemas](https://emec.mec.gov.br/emec/consulta-cadastro/detalhamento/d96957f455f6405d14c6542552b0f6eb/MTU3MDg=/9f1aa921d96ca1df24a34474cc171f61/MjEx) pela [Fatec - Dr. Thomaz Novelino](https://site.fatecfranca.edu.br/) em [Franca](https://www.google.com/maps/place/Franca+-+SP/data=!4m2!3m1!1s0x94b0a61af61f6833:0xf8937fe5d4b0f6dd?sa=X&ved=2ahUKEwjK0u2314SAAxV6FLkGHc-5CKYQ8gF6BAhcEAA&ved=2ahUKEwjK0u2314SAAxV6FLkGHc-5CKYQ8gF6BAhkEAE). Adoro pensar sistematicamente e esquematizar fluxos que solucionam os problemas do dia a dia, com pensamento lógico, analítico e crítico, aprendendo constantemente novos conceitos e tecnologias enquanto busco aplicação prática das minhas habilidades.
 
-Meu objetivo é planejar, construir e evoluir sistemas que entreguem valor, utilizando tecnologias modernas, boas práticas e sempre buscando excelência em cada entrega.
+Consigo planejar, construir e evoluir sistemas, utilizando tecnologias modernas, boas práticas e sempre na busca de aperfeiçoamento.
 
 ---
 
 ### 🧠 **Competências Técnicas**
 
-- **Back-End:** Python (Django, FastAPI), C# (.NET), APIs REST  
-- **Front-End:** HTML5, CSS3, JavaScript (básico), AngularJS  
+- **Back-End:** Python (Django, Flask, FastAPI)
+- **Front-End:** HTML5, CSS3, JavaScript
 - **Data & IA:** Pandas, Matplotlib, Streamlit, Machine Learning (básico), MetaTrader5 API  
 - **Banco de Dados:** PostgreSQL, Supabase (Auth + DB)  
 - **Ferramentas & Práticas:** Git, GitHub, VS Code, Insomnia/Postman, Metodologias Ágeis  
@@ -42,7 +42,7 @@ Meu objetivo é planejar, construir e evoluir sistemas que entreguem valor, util
 
 ### 🧭 O que estou buscando?
 
-Atualmente estou em busca de **oportunidades como Desenvolvedor Júnior ou Estagiário**, com o objetivo de colaborar com times de tecnologia e aprender com profissionais experientes. Sou movido por desafios, aprendizado contínuo e pela vontade de transformar ideias em soluções reais.
+Atualmente estou em busca de **oportunidades como Desenvolvedor**, com o objetivo de colaborar com times de tecnologia e aprender com profissionais experientes. Sou movido por desafios, aprendizado contínuo e pela vontade de transformar ideias em soluções reais.
 
 ---
 
