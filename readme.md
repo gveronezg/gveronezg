@@ -2,56 +2,50 @@
 
 <h1 align="center">Gabriel Veronez Giolo</h1>
 
-### 👋 Seja bem-vindo(a) ao meu GitHub!
+### 👋 Seja bem-vindo(a)!
 
-Sou **analista e desenvolvedor**, formado como Tecnólogo em [Análise e Desenvolvimento de Sistemas](https://emec.mec.gov.br/emec/consulta-cadastro/detalhamento/d96957f455f6405d14c6542552b0f6eb/MTU3MDg=/9f1aa921d96ca1df24a34474cc171f61/MjEx) pela [Fatec - Dr. Thomaz Novelino](https://site.fatecfranca.edu.br/) em [Franca](https://www.google.com/maps/place/Franca+-+SP/data=!4m2!3m1!1s0x94b0a61af61f6833:0xf8937fe5d4b0f6dd?sa=X&ved=2ahUKEwjK0u2314SAAxV6FLkGHc-5CKYQ8gF6BAhcEAA&ved=2ahUKEwjK0u2314SAAxV6FLkGHc-5CKYQ8gF6BAhkEAE). Adoro pensar sistematicamente e esquematizar fluxos que solucionam os problemas do dia a dia, com pensamento lógico, analítico e crítico, aprendendo constantemente novos conceitos e tecnologias enquanto busco aplicação prática das minhas habilidades.
+Sou **Desenvolvedor de Software Full Stack & Especialista em IA**, graduado em [Análise e Desenvolvimento de Sistemas](https://emec.mec.gov.br/emec/consulta-cadastro/detalhamento/d96957f455f6405d14c6542552b0f6eb/MTU3MDg=/9f1aa921d96ca1df24a34474cc171f61/MjEx) pela Fatec. 
 
-Consigo planejar, construir e evoluir sistemas, utilizando tecnologias modernas, boas práticas e sempre na busca de aperfeiçoamento.
+Minha atuação é focada na resolução de problemas complexos através de **Inteligência Artificial Generativa**, **Agentes Autônomos** e arquiteturas web escaláveis. Com um pensamento analítico e orientado a dados, transformo ideias em sistemas funcionais, priorizando a eficiência operacional e a experiência do usuário.
 
 ---
 
 ### 🧠 **Competências Técnicas**
 
-- **Back-End:** Python (Django, Flask, FastAPI)
-- **Front-End:** HTML5, CSS3, JavaScript
-- **Data & IA:** Pandas, Matplotlib, Streamlit, Machine Learning (básico), MetaTrader5 API  
-- **Banco de Dados:** PostgreSQL, Supabase (Auth + DB)  
-- **Ferramentas & Práticas:** Git, GitHub, VS Code, Insomnia/Postman, Metodologias Ágeis  
-- **Outros:** Automatização de rotinas, integração com APIs externas e bots no Telegram
+- **IA & Agentes:** CrewAI, LangChain, OpenAI API, Google Gemini API, Prompt Engineering.
+- **Back-End:** Python (Django, FastAPI, Flask), Node.js, Integração de APIs REST.
+- **Front-End:** React, Next.js, HTML5, CSS3, JavaScript/TypeScript.
+- **Dados:** ETL, SQL, Pandas, NumPy, Streamlit, Machine Learning.
+- **Banco de Dados:** PostgreSQL, Supabase, MySQL.
+- **Ferramentas:** Git, GitHub, Docker (em implementação), Metodologias Ágeis.
 
 ---
 
-### 🚀 **Projetos Pessoais em Destaque**
+### 🚀 **Projetos em Destaque (Experiência Prática)**
 
-- 🧮 **Calculadora de Gastos Pessoais**  
-  Ferramenta personalizada para controle financeiro individual e familiar, feita em Python.
-
-- 🤖 **IA Nutricionista via Telegram**  
-  Bot inteligente integrado ao Telegram, capaz de responder dúvidas nutricionais com base em lógica de IA e NLP simples.
-
-- 📈 **Bot Automatizado com Machine Learning**  
-  Sistema de compra e venda de ativos usando aprendizado de máquina, com execução via API do MetaTrader5.
-
-- 📊 **Dashboard de Análise de Dados**  
-  Aplicação interativa desenvolvida com Python + Streamlit para leitura de dados, geração de gráficos e KPIs personalizados.
-
-- 🌐 **Projetos com HTML e CSS**  
-  Criação de páginas web responsivas, explorando fundamentos de design visual, acessibilidade e usabilidade.
+- 🤖 **agentIAgno | Orquestração de Agentes:** Sistema de IA multagente para diagnósticos lógicos complexos utilizando **CrewAI** e **LangChain**.
+- 🥗 **Nutri_AI | Consultoria Inteligente:** Agente de IA para planejamento nutricional personalizado com base em dados biométricos em tempo real.
+- 🏛️ **TG em Django | Gestão Acadêmica:** Plataforma web robusta para centralização de dados, utilizando arquitetura MVT e segurança de dados.
+- 🖼️ **AvatarDoMenor | Arquitetura Headless:** Sistema full stack desacoplado (Next.js + Python API) para geração e customização de avatares.
+- 📈 **InvAI | Dashboard Financeiro:** Aplicação em Streamlit que utiliza LLMs para converter dados do mercado financeiro em insights de investimento.
+- 🎵 **mysong | Integração de APIs:** Automação para gestão de metadados e bibliotecas musicais via APIs do Spotify e YouTube.
 
 ---
 
-### 🧭 O que estou buscando?
+### 🧭 Objetivo e Disponibilidade
 
-Atualmente estou em busca de **oportunidades como Desenvolvedor**, com o objetivo de colaborar com times de tecnologia e aprender com profissionais experientes. Sou movido por desafios, aprendizado contínuo e pela vontade de transformar ideias em soluções reais.
+Atualmente focado no desenvolvimento de soluções de **IA Generativa e Automação de Processos**. Busco colaborar em projetos inovadores onde eu possa aplicar minha expertise em Python e IA para gerar impacto real.
+
+🌍 **Disponibilidade:** Remoto, Híbrido ou Presencial (Brasil e Europa).
+🗣️ **Idiomas:** Português (Nativo), Inglês (Intermediário).
 
 ---
 
-### ✨ Obrigado pela visita!
+### ✨ Vamos conectar?
 
-Fico feliz por você estar aqui. Caso queira trocar ideias ou conhecer mais sobre meu trabalho, é só clicar em um dos ícones abaixo:
+Caso queira trocar ideias sobre IA, Python ou colaborações técnicas, entre em contato:
 
 [<img width="50em" src="https://cdn-icons-png.flaticon.com/512/145/145807.png">](https://www.linkedin.com/in/gabriel-veronez-giolo-70a348193/)
 [<img width="50em" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png">](https://www.instagram.com/gveronezg/)
-[<img width="50em" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png">](https://www.facebook.com/gabrielveronezgiolo)
 [<img width="50em" src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png">](https://wa.me/16991941010?text=Olá%20Gabriel%20encontrei%20seu%20perfil%20no%20GitHub.)
 [<img width="50em" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png">](https://t.me/gveronezg)
