@@ -1,63 +1,81 @@
-# Gabriel Veronez Giolo
-### **AI Engineer & Full Stack Developer | EU Citizen 🇪🇺**
+<div align="center">
+<h1>Gabriel Veronez Giolo</h1>
+<h3>Python Developer | EU Citizen 🇪🇺</h3>
 
 [🇺🇸 English](readme.md) | [🇧🇷 Português](readme.pt-br.md)
 
-Professional Software Developer specializing in **Generative AI** and **Scalable Web Architectures**. My recent focus has been building high-performance AI systems with a deep emphasis on **RAG Precision** and **Clean Architecture**.
+<p>
+🎓 <a href="https://emec.mec.gov.br/emec/consulta-cadastro/detalhamento/d96957f455f6405d14c6542552b0f6eb/MTU3MDg=/9f1aa921d96ca1df24a34474cc171f61/MjEx">
+Systems Analysis and Development — Fatec Franca
+</a><br>
+Equivalent to a <b>Higher Certificate — NFQ Level 6 (Ireland)</b>
+</p>
 
-**[LinkedIn](https://www.linkedin.com/in/gabriel-veronez-giolo-70a348193/) | [WhatsApp](https://wa.me/16991941010) | [Email](mailto:seu-email@aqui.com)**
+<p>
+Python developer with experience in <b>automation, data processing and applied artificial intelligence</b>.<br>
+💡 Currently focused on <b>LLM applications, AI agents and data automation</b>.
+</p>
 
----
-
-### 🟢 Perspective
-Currently focused on bridging the gap between LLM potential and production-grade reliability. My latest engineering challenge involved building a philosophical digital consciousness (Jesus-the-Spiritist), where I mastered:
-
-*   **RAG Excellence**: Implementing automated data cleaning and semantic search optimization using `pgvector` and Cosine Similarity.
-*   **Architectural Resilience**: Applying **SOLID (DIP/SRP)** to decouple AI layers and building systems with **Graceful Degradation** and structured observability (`structlog`).
-*   **Modern DevOps**: Engineering complex Docker orchestration with advanced healthchecks to solve service race conditions.
-
----
-
-### 🛠 Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **AI & LLM** | LangChain, CrewAI, Groq (Llama 3.3), OpenAI, pgvector, Semantic Search |
-| **Back-End** | Python 3.12 (FastAPI, Django), SQLModel, Celery, Redis |
-| **Front-End** | React, Next.js, TypeScript, Tailwind CSS |
-| **Infrastructure** | Docker, Docker Compose, PostgreSQL, Git, CI/CD |
+</div>
 
 ---
 
-### 🚀 Featured Projects
+### Tech Stack
 
-#### 🏛️ [Jesus-the-Spiritist](https://github.com/gveronezg/Jesus-the-Spiritist) | RAG Philosophical Assistant
-*   **Key Learning**: Mastered the "Retriever" part of RAG. Implemented a robust ingestion layer with text normalization to reduce LLM hallucinations.
-*   **Architecture**: Built with an "Async-First" paradigm using FastAPI, Celery, and Redis for scalable message delivery.
+#### Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-#### 🤖 [agentIAgno](https://github.com) | AI Multi-Agent Orchestration
-*   Developed complex logic diagnostic systems using **CrewAI**.
-*   Implemented autonomous workflows to solve multi-step reasoning tasks.
+#### Backend & Data
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLModel-CC2927?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-#### 📈 [InvAI](https://github.com) | Financial Intelligence Dashboard
-*   Leveraged LLMs to transform raw market data into actionable investment insights using **Streamlit**.
+#### Infrastructure & Tools
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq_LLM-000000?style=for-the-badge"/>
 
 ---
 
-### 🎓 Education
-*   **Degree in Systems Analysis and Development** – Fatec (Brazil)
+### 🏗️ Practical Experience
+
+* **Automation & ETL**  
+Development of tools for data processing and automated spreadsheet generation for ingestion into web systems.
+
+* **APIs & Backend**  
+Building REST APIs with FastAPI, including full CRUD operations, route organisation, JWT authentication and SQLite integration.
+
+* **AI & LLMs**  
+Integration with large language models (LLMs), including AI agents, RAG systems and prompt engineering techniques.
+
+---
+
+### ✨ Top 3 Published Projects
+
+* ✞ **[Jesus-the-Spiritist](https://github.com/gveronezg/Jesus-the-Spiritist)**  
+Philosophical assistant based on **RAG architecture**.
+
+* 🤖 **[agentIAgno](https://github.com/gveronezg/agentIAgno)**  
+**Multi-agent orchestration** using CrewAI.
+
+* 📈 **[Nutr_AI](https://github.com/gveronezg/Nutri_AI)**  
+**AI nutrition assistant integrated with Telegram**.
 
 ---
 
 ### 🌍 Languages
-*   **Portuguese:** Native
-*   **English:** Professional Working Proficiency
-*   **Italian:** Heritage
+
+- **Portuguese:** Native  
+- **English:** Intermediate
 
 ---
 
-### ✨ Let's Connect
-Building the future of AI in Europe. If you are looking for an engineer who values **clean code** and **system resilience**, let's talk!
+### 🔗 Let's Connect
 
 [<img width="40em" src="https://cdn-icons-png.flaticon.com/512/145/145807.png">](https://www.linkedin.com/in/gabriel-veronez-giolo-70a348193/)
 [<img width="40em" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png">](https://t.me/gveronezg)
+[<img width="40em" src="https://cdn-icons-png.flaticon.com/512/733/733585.png">](https://wa.me/5516991941010)
+[<img width="40em" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">](mailto:gabrielveronezgiolo@gmail.com)
