@@ -2,7 +2,8 @@
 <h1>Gabriel Veronez Giolo</h1>
 <h3>Dev Python | Cidadão Europeu 🇪🇺</h3>
 
-[🇺🇸 English](readme.md) | [🇧🇷 Português](readme.pt-br.md)
+[🇺🇸 English](readme.md) | [🇧🇷 Português](readme-pt-br.md)
+
 <p>
 🎓 <a href="https://emec.mec.gov.br/emec/consulta-cadastro/detalhamento/d96957f455f6405d14c6542552b0f6eb/MTU3MDg=/9f1aa921d96ca1df24a34474cc171f61/MjEx">
 Análise e Desenvolvimento de Sistemas — Fatec Franca
