@@ -1,51 +1,63 @@
-<img align="right" width="500em" src="https://github.com/gveronezg/gveronezg/raw/main/Programming-bro.svg" alt="gveronezg"/>
+# Gabriel Veronez Giolo
+### **AI Engineer & Full Stack Developer | EU Citizen 🇪🇺**
 
-<h1 align="center">Gabriel Veronez Giolo</h1>
+[🇺🇸 English](readme.md) | [🇧🇷 Português](readme.pt-br.md)
 
-### 👋 Seja bem-vindo(a)!
+Professional Software Developer specializing in **Generative AI** and **Scalable Web Architectures**. My recent focus has been building high-performance AI systems with a deep emphasis on **RAG Precision** and **Clean Architecture**.
 
-Sou **Desenvolvedor de Software Full Stack & Especialista em IA**, graduado em [Análise e Desenvolvimento de Sistemas](https://emec.mec.gov.br/emec/consulta-cadastro/detalhamento/d96957f455f6405d14c6542552b0f6eb/MTU3MDg=/9f1aa921d96ca1df24a34474cc171f61/MjEx) pela Fatec. 
-
-Minha atuação é focada na resolução de problemas complexos através de **Inteligência Artificial Generativa**, **Agentes Autônomos** e arquiteturas web escaláveis. Com um pensamento analítico e orientado a dados, transformo ideias em sistemas funcionais, priorizando a eficiência operacional e a experiência do usuário.
-
----
-
-### 🧠 **Competências Técnicas**
-
-- **IA & Agentes:** CrewAI, LangChain, OpenAI API, Google Gemini API, Prompt Engineering.
-- **Back-End:** Python (Django, FastAPI, Flask), Node.js, Integração de APIs REST.
-- **Front-End:** React, Next.js, HTML5, CSS3, JavaScript/TypeScript.
-- **Dados:** ETL, SQL, Pandas, NumPy, Streamlit, Machine Learning.
-- **Banco de Dados:** PostgreSQL, Supabase, MySQL.
-- **Ferramentas:** Git, GitHub, Docker (em implementação), Metodologias Ágeis.
+**[LinkedIn](https://www.linkedin.com/in/gabriel-veronez-giolo-70a348193/) | [WhatsApp](https://wa.me/16991941010) | [Email](mailto:seu-email@aqui.com)**
 
 ---
 
-### 🚀 **Projetos em Destaque (Experiência Prática)**
+### 🟢 Perspective
+Currently focused on bridging the gap between LLM potential and production-grade reliability. My latest engineering challenge involved building a philosophical digital consciousness (Jesus-the-Spiritist), where I mastered:
 
-- 🤖 **agentIAgno | Orquestração de Agentes:** Sistema de IA multagente para diagnósticos lógicos complexos utilizando **CrewAI** e **LangChain**.
-- 🥗 **Nutri_AI | Consultoria Inteligente:** Agente de IA para planejamento nutricional personalizado com base em dados biométricos em tempo real.
-- 🏛️ **TG em Django | Gestão Acadêmica:** Plataforma web robusta para centralização de dados, utilizando arquitetura MVT e segurança de dados.
-- 🖼️ **AvatarDoMenor | Arquitetura Headless:** Sistema full stack desacoplado (Next.js + Python API) para geração e customização de avatares.
-- 📈 **InvAI | Dashboard Financeiro:** Aplicação em Streamlit que utiliza LLMs para converter dados do mercado financeiro em insights de investimento.
-- 🎵 **mysong | Integração de APIs:** Automação para gestão de metadados e bibliotecas musicais via APIs do Spotify e YouTube.
+*   **RAG Excellence**: Implementing automated data cleaning and semantic search optimization using `pgvector` and Cosine Similarity.
+*   **Architectural Resilience**: Applying **SOLID (DIP/SRP)** to decouple AI layers and building systems with **Graceful Degradation** and structured observability (`structlog`).
+*   **Modern DevOps**: Engineering complex Docker orchestration with advanced healthchecks to solve service race conditions.
 
 ---
 
-### 🧭 Objetivo e Disponibilidade
+### 🛠 Tech Stack
 
-Atualmente focado no desenvolvimento de soluções de **IA Generativa e Automação de Processos**. Busco colaborar em projetos inovadores onde eu possa aplicar minha expertise em Python e IA para gerar impacto real.
-
-🌍 **Disponibilidade:** Remoto, Híbrido ou Presencial (Brasil e Europa).
-🗣️ **Idiomas:** Português (Nativo), Inglês (Intermediário).
+| Category | Technologies |
+| :--- | :--- |
+| **AI & LLM** | LangChain, CrewAI, Groq (Llama 3.3), OpenAI, pgvector, Semantic Search |
+| **Back-End** | Python 3.12 (FastAPI, Django), SQLModel, Celery, Redis |
+| **Front-End** | React, Next.js, TypeScript, Tailwind CSS |
+| **Infrastructure** | Docker, Docker Compose, PostgreSQL, Git, CI/CD |
 
 ---
 
-### ✨ Vamos conectar?
+### 🚀 Featured Projects
 
-Caso queira trocar ideias sobre IA, Python ou colaborações técnicas, entre em contato:
+#### 🏛️ [Jesus-the-Spiritist](https://github.com/gveronezg/Jesus-the-Spiritist) | RAG Philosophical Assistant
+*   **Key Learning**: Mastered the "Retriever" part of RAG. Implemented a robust ingestion layer with text normalization to reduce LLM hallucinations.
+*   **Architecture**: Built with an "Async-First" paradigm using FastAPI, Celery, and Redis for scalable message delivery.
 
-[<img width="50em" src="https://cdn-icons-png.flaticon.com/512/145/145807.png">](https://www.linkedin.com/in/gabriel-veronez-giolo-70a348193/)
-[<img width="50em" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png">](https://www.instagram.com/gveronezg/)
-[<img width="50em" src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png">](https://wa.me/16991941010?text=Olá%20Gabriel%20encontrei%20seu%20perfil%20no%20GitHub.)
-[<img width="50em" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png">](https://t.me/gveronezg)
+#### 🤖 [agentIAgno](https://github.com) | AI Multi-Agent Orchestration
+*   Developed complex logic diagnostic systems using **CrewAI**.
+*   Implemented autonomous workflows to solve multi-step reasoning tasks.
+
+#### 📈 [InvAI](https://github.com) | Financial Intelligence Dashboard
+*   Leveraged LLMs to transform raw market data into actionable investment insights using **Streamlit**.
+
+---
+
+### 🎓 Education
+*   **Degree in Systems Analysis and Development** – Fatec (Brazil)
+
+---
+
+### 🌍 Languages
+*   **Portuguese:** Native
+*   **English:** Professional Working Proficiency
+*   **Italian:** Heritage
+
+---
+
+### ✨ Let's Connect
+Building the future of AI in Europe. If you are looking for an engineer who values **clean code** and **system resilience**, let's talk!
+
+[<img width="40em" src="https://cdn-icons-png.flaticon.com/512/145/145807.png">](https://www.linkedin.com/in/gabriel-veronez-giolo-70a348193/)
+[<img width="40em" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png">](https://t.me/gveronezg)
